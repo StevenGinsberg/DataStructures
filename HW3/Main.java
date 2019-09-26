@@ -4,13 +4,7 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/*
- * Author: LEIBNIZ H. BERIHUETE
- * Course: CISC 3130-W6
- * Last Modification: 05/12/2016
- * Homework #3
- * NOTE: THIS CLASS IS THE MAIN CLASS
- */
+ 
 
 public class Main {
     //--------------------- Data Field ----------------------//

@@ -1,6 +1,6 @@
 package com.jetbrains;
 
- import java.io.*;
+import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
 

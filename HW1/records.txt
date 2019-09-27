@@ -1,0 +1,55 @@
+5647
+O, Barracuda Firewall, 2, $3799.00
+O, Asus X99 Motherboard, 1, $379.99
+P, $512.22
+O, Corsair Obsidian Case, 1, $173.99
+O, Dell PowerEdge, 1, $179.99
+
+5689
+O, Asus X99 Motherboard, 2, $379.99
+O, Crucial 8GB RAM, 4, $154.99
+P, $254.00
+O, Cooler Master V8, 1, $89.99
+P, $50.00
+
+5691
+O, Crucial 8GB RAM, 2, $154.99
+P, $154.99
+O, MSI Z97 Motherboard, 1, $139.99
+P, $100.00
+O, NZXT PC Water Cooling, 1, $114.99
+
+6382
+O, Asus ROG M8E Motherboard, 1, $379.99
+O, NVIDIA GeForce GTX980, 2, $469.99
+O, Thermaltake Cooler, 1, $409.99
+O, Crucial 16GB RAM, 4, $239.99
+P, $512.50
+
+6785
+O, Razer Core External GPU, 5, $499.99
+O, LG 55" 4K Ultra HDTV, 5, $679.97
+O, Bose Multimedia Speakers, 2, $176.99
+P, $512.50
+O, Xbox One Elite Controller, 5, $149.00
+
+9777
+O, Isku Mechanical Keyboard, 1, $99.99
+P, $20.00
+O, Cyborg R.A.T. 9 Mouse, 1, $149.99
+O, Astro A40 Headset, 2, $149.99
+P, $100.00
+
+9813
+O, Fractal 804 PC Case, 50, $116.00
+P, $1000.00
+O, Asus Z10PR-D16 Motherboard, 50, $392.00
+P, $980.00
+O, Intel Broadwell i7 6950X, 50, $1599.99
+
+9824
+O, Samsung 3TB SSD, 3, $1898.48
+O, MSI GTX 1080, 2, $650.45
+O, Corsair Vengeance 16GB RAM, 4, $99.99
+O, Gigabyte Z170x Motherboard, 1, $214.02
+P, $750.00
